@@ -1,8 +1,8 @@
 spring:
   datasource:
     username: root
-    password: root
-    url: jdbc:mysql://192.168.26.133:3306/gulimall_ums
+    password: 3366
+    url: jdbc:mysql://47.113.223.103/gulimall_ums
     driver-class-name: com.mysql.cj.jdbc.Driver
     
   cloud:
